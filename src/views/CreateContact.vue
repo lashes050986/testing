@@ -1,6 +1,7 @@
 <template>
 
 <div class="test">
+	<!-- <app-contacts /> -->
 	<div class="widget-content-container">
 		<div class="back-drop"></div>
 		
@@ -38,7 +39,16 @@
 </template>
 
 <script>
+
+// import AppContacts from "@/views/Contacts.vue";
+
+
 export default {
+
+	// components: {
+	// 	'app-contacts': AppContacts
+	// },
+
 	name: 'app',
 	data() {
 		return {
