@@ -1,5 +1,5 @@
 <template>
-<svg version="1.1" class="magnifying-glass-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" class="app-magnifying" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
      viewBox="0 0 51.7224731 51.6700439" style="enable-background:new 0 0 51.7224731 51.6700439;" xml:space="preserve">
     
     <path class="st0" d="M21.0700073,0C9.4299927,0,0,9.4299927,0,21.0599976c0,11.6400146,9.4299927,21.0700073,21.0700073,21.0700073
@@ -21,7 +21,7 @@
 
  <style>
 
-    .st0 {
+    .app-magnifying .st0 {
          fill: #F30070;
 	}   
 
